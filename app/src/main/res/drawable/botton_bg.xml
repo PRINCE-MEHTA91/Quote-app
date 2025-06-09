@@ -1,0 +1,15 @@
+<!-- res/drawable/button_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Teal button background -->
+    <solid android:color="#009999" />
+
+    <!-- Rounded corners -->
+    <corners android:radius="30dp" />
+    <padding
+        android:left="16dp"
+        android:top="12dp"
+        android:right="16dp"
+        android:bottom="12dp" />
+</shape>
